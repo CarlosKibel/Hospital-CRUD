@@ -1,0 +1,13 @@
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.MenuPrincipal.resources
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.VerFacturaFarmacia.resources
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.CrearFacturaLaboratorio.resources
+C:\Users\Carlos Kibel\source\repos\Hospital\Hospital\obj\Debug\Hospital.VerFacturaLaboratorio.resources
